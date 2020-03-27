@@ -12,7 +12,7 @@ namespace EjemploAves
         }
 
         public void Fotocopiar()
-        {
+        { 
             throw new NotImplementedException();
         }
 
