@@ -8,6 +8,7 @@ namespace EjemploAves
     {
         public void Escanear()
         {
+
             throw new NotImplementedException();
         }
 
